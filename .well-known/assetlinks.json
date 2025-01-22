@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sbtech.clicktick",
+      "sha256_cert_fingerprints": [
+        "A0:B2:39:CD:82:4D:F7:BA:26:0F:66:F2:AF:58:BE:AB:AB:0B:1D:66:5F:DF:DE:BF:17:16:09:26:38:35:35:FF"
+      ]
+    }
+  }
+]
